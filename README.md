@@ -5,4 +5,4 @@
 
 ### To get the files...
 
-$ git clone git@github.com:AllefSales/42-Home.git 
+$ git clone https://github.com/AllefSales/42-Home.git
